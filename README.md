@@ -2,7 +2,7 @@
 
 ## Following are my projects in SQL,R, Python, Tableau & Excel
 ### **My linkedln profile** : [Sumaya A](https://www.linkedin.com/in/sumaya-abdullathif)
-[] SQL & Tableau -
+- [x] SQL & Tableau -
      * Covid Data in SQL and Visualization in Tableau
      
        See on Tableau Public :[Dashboard](https://public.tableau.com/views/CovidDasboard_16760608598840/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
