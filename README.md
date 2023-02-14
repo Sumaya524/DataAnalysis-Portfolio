@@ -11,7 +11,7 @@
        
        *Review the Data Exploration SQL Script:[HERE](https://github.com/Sumaya524/Tableau-Dashboard/blob/main/Covid%20TableauQuery.sql)
        
-       ![covid](https://user-images.githubusercontent.com/124743857/218819416-15449717-9f7a-470c-b883-6e6601840b0f.jpg)
+      ![image](https://user-images.githubusercontent.com/124743857/218821659-66ecf441-4d7d-413d-8fe3-c30087cf76db.png)
 
 
        
