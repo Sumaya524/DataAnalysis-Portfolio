@@ -57,6 +57,11 @@
          *pandas, numpy, seaborn, matplotlip*
          
          *Review the project*:[HERE](https://github.com/Sumaya524/Spotify/blob/main/spotify-datasets.ipynb)
+         
+         
+       - [x] **Tableau**
+              *To view these Tableau Dashboards in Tableau Public, click on the hypertext link* 
+              
 
         
           
