@@ -16,6 +16,8 @@
   - [x] **SQL** -
   
        * SQL challenge-Case Study Danny's Diner-Data Cleaning
+          
+         *Review the Schema* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s/blob/main/schema_sql.sql)
        
          *Review the SQL Script* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s/blob/main/sql_query.sql)
          
