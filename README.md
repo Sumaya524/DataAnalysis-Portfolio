@@ -18,15 +18,37 @@
   
        * SQL challenge-Case Study Danny's Diner-Data Cleaning
          
-         *Review the Case Study* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s)
+       *Review the Case Study* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s)
           
-         *Review the Schema* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s/blob/main/schema_sql.sql)
+       *Review the Schema* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s/blob/main/schema_sql.sql)
        
-         *Review the SQL Script* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s/blob/main/sql_query.sql)
+       *Review the SQL Script* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s/blob/main/sql_query.sql)
          
-         *Entity-Relationship Digram*
+       *Entity-Relationship Digram*
          
             ![ERD](https://user-images.githubusercontent.com/124743857/218807922-baf3c630-11ff-4ca4-91e6-c980464a315b.JPG)
+            
+        
+   - [x] **R** -
+       * Bike Share Marketing Analysis in R and Presentation in Tableau
+   
+        *Analyze 12 months of Divvy data to see how we can convert casual riders into annual members*
+        *Use tidyverse to wrangle data, dplyr to clean data, lubridate to wrangle date attributes, ggplot2 to visualize data, and readr to save csv for further analysis*
+        
+        *Review the Case Study* :[HERE](https://github.com/Sumaya524/Cyclistic-Bike-Share-Analyis---Google-Data-analyti/blob/main/cyclistic-bike-share-analyis-google-data-analyti.ipynb)
+        
+        *Review the Tableau Public*:[HERE](https://github.com/Sumaya524/Cyclistic-Bike-Share-Analyis---Google-Data-analyti/blob/main/Bike%20share.png)
+        
+        
+        ![image](https://user-images.githubusercontent.com/124743857/218839484-3e82548a-1a5d-4e45-b08f-4f5b4ab8b178.png)
+
+        
+          
+        
+      
+      
+   
+   
          
           
            
