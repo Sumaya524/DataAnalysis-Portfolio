@@ -22,9 +22,10 @@
          *Review the SQL Script* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s/blob/main/sql_query.sql)
          
          ** Entity-Relationship Digram
-![ERD](https://user-images.githubusercontent.com/124743857/218807922-baf3c630-11ff-4ca4-91e6-c980464a315b.JPG)
          
-       *   
+            ![ERD](https://user-images.githubusercontent.com/124743857/218807922-baf3c630-11ff-4ca4-91e6-c980464a315b.JPG)
+         
+          
            
         
       
