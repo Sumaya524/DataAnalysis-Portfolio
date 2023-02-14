@@ -11,7 +11,7 @@
        
        Review the Data Exploration SQL Script:[HERE](https://github.com/Sumaya524/Tableau-Dashboard/blob/main/Covid%20TableauQuery.sql)
        
-       ![alt text](https://public.tableau.com/views/CovidDasboard_16760608598840/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+       ![alt text]()
 
        
     
