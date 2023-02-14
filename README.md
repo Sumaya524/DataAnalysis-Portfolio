@@ -16,7 +16,7 @@
       
   - [x] **SQL** -
   
-       * SQL challenge-Case Study Danny's Diner-Data Cleaning
+       **SQL challenge-Case Study Danny's Diner-Data Cleaning**
          
        *Review the Case Study* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s)
           
@@ -30,7 +30,7 @@
             
         
    - [x] **R** -
-       * Bike Share Marketing Analysis in R and Presentation in Tableau
+       **Bike Share Marketing Analysis in R and Presentation in Tableau**
    
         *Analyze 12 months of Divvy data to see how we can convert casual riders into annual members*
         *Use tidyverse to wrangle data, dplyr to clean data, lubridate to wrangle date attributes, ggplot2 to visualize data, and readr to save csv for further analysis*
