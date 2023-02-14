@@ -44,6 +44,10 @@
         
         
         ![image](https://user-images.githubusercontent.com/124743857/218839484-3e82548a-1a5d-4e45-b08f-4f5b4ab8b178.png)
+        
+        
+        
+    - [x] **Python** -   
 
         
           
