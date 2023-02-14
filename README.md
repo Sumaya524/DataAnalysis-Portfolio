@@ -10,6 +10,8 @@
      *Review the Data Insertion SQL Script* :[HERE](https://github.com/Sumaya524/CovidProjects/blob/main/CovidQuery.sql) 
      
      *Review the Data Exploration SQL Script* :[HERE](https://github.com/Sumaya524/Tableau-Dashboard/blob/main/Covid%20TableauQuery.sql)
+     
+     https://github.com/Sumaya524/Tableau-Dashboard/blob/main/covid.jpg
       
         
       
