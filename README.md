@@ -5,13 +5,13 @@
 - [x] **SQL & Tableau -
      **Covid Data in SQL and Visualization in Tableau**
      
-      See on Tableau Public :[Dashboard](https://public.tableau.com/views/CovidDasboard_16760608598840/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+      See on Tableau Public :[Dashboard] (https://public.tableau.com/views/CovidDasboard_16760608598840/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
        
-       Review the Data Insertion SQL Script:[HERE](https://github.com/Sumaya524/CovidProjects/blob/main/CovidQuery.sql)
+       Review the Data Insertion SQL Script:[HERE] (https://github.com/Sumaya524/CovidProjects/blob/main/CovidQuery.sql)
        
-       Review the Data Exploration SQL Script:[HERE](https://github.com/Sumaya524/Tableau-Dashboard/blob/main/Covid%20TableauQuery.sql)
+       Review the Data Exploration SQL Script:[HERE] (https://github.com/Sumaya524/Tableau-Dashboard/blob/main/Covid%20TableauQuery.sql)
        
-      ![image](https://user-images.githubusercontent.com/124743857/218821659-66ecf441-4d7d-413d-8fe3-c30087cf76db.png)
+      ![image] (https://user-images.githubusercontent.com/124743857/218821659-66ecf441-4d7d-413d-8fe3-c30087cf76db.png)
 
 
        
