@@ -6,9 +6,9 @@
      **Covid Data in SQL and Visualization in Tableau**
      *See on Tableau Public* : [Dashboard](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/CovidDasboard_16760608598840/Dashboard1)
      
-     *Review the Data Insertion SQL Script* : [HERE](https://github.com/Sumaya524/CovidProjects/blob/main/CovidQuery.sql) 
+     *Review the Data Insertion SQL Script* :[HERE](https://github.com/Sumaya524/CovidProjects/blob/main/CovidQuery.sql) 
      
-      *Review the Data Exploration SQL Script* : [HERE](https://github.com/Sumaya524/Tableau-Dashboard/blob/main/Covid%20TableauQuery.sql)
+      *Review the Data Exploration SQL Script* :[HERE](https://github.com/Sumaya524/Tableau-Dashboard/blob/main/Covid%20TableauQuery.sql)
       
         
       
