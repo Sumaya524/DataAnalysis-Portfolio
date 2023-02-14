@@ -48,6 +48,13 @@
         
         
     - [x] **Python** -   
+          **Spotify Data Case Study**
+          
+         *A dataset of from 1922-2021 songs tracks from Spotify API. The "data.csv" file contains more than 600.000 songs collected from Spotify Web API, and also you can find data grouped by artist, year, or genre in the data section*
+         *Python Libaries Used*
+         *pandas, numpy, seaborn, matplotlip*
+         
+         *Review the project*:[HERE](https://github.com/Sumaya524/Spotify/blob/main/spotify-datasets.ipynb)
 
         
           
