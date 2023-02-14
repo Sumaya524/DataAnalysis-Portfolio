@@ -8,7 +8,7 @@
        Review the Data Insertion SQL Script:[HERE](https://github.com/Sumaya524/CovidProjects/blob/main/CovidQuery.sql)
        Review the Data Exploration SQL Script:[HERE](https://github.com/Sumaya524/Tableau-Dashboard/blob/main/Covid%20TableauQuery.sql)
        
-       ![image](https://user-images.githubusercontent.com/124743857/218815892-834622b0-fee4-4111-9b5c-2cbb92879352.png)
+       ![alt text](https://user-images.githubusercontent.com/124743857/218815892-834622b0-fee4-4111-9b5c-2cbb92879352.png)
 
        
     
