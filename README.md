@@ -24,7 +24,8 @@
        
        *Review the SQL Script* :[HERE](https://github.com/Sumaya524/SQL-Challenge-Case-Study-1-Diner-danny-s/blob/main/sql_query.sql)
          
-       *Entity-Relationship Digram*: ![image](https://user-images.githubusercontent.com/124743857/218839952-002787e2-3ff3-4c84-baab-8ef05a97e799.png)
+       *Entity-Relationship Digram*: 
+       ![image](https://user-images.githubusercontent.com/124743857/218839952-002787e2-3ff3-4c84-baab-8ef05a97e799.png)
             
             
 
