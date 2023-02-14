@@ -15,7 +15,7 @@
       
   - [x] **SQL** -
   
-         * SQL challenge-Case Study Danny's Diner-Data Cleaning
+         * SQL challenge-Case Study Danny's Diner-Data Cleaning *
            
         
       
