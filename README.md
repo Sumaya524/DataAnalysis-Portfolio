@@ -68,6 +68,13 @@
                (https://public.tableau.com/views/MakeoverMonday2023NYCPizzaSlices/MakeoverMonday2023W5NYCPizzaSlices?:language=en-US&:display_count=n&:origin=viz_share_link)
               
          ![image](https://user-images.githubusercontent.com/124743857/218858842-ce222c3b-37bf-414f-8152-9f73ada75873.png)
+         
+         
+         **Sample SuperStore**
+             (https://public.tableau.com/views/Sample-Superstore_16764789880940/SampleSuperstore_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+              
+              
+              ![image](https://user-images.githubusercontent.com/124743857/219120912-e6637f2a-d20c-45c3-8a37-7a7fd5547e7a.png)
 
 
         
