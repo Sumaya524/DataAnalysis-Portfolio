@@ -85,9 +85,7 @@
             
    ![image](https://user-images.githubusercontent.com/124743857/219774390-4950c608-0bf7-4159-bc72-9bc514358349.png)
 
-       
-       
-    **SALES DASHBOARD**
+     *  **SALES DASHBOARD**
         
      **[VIEW DASHBOARD]**(https://public.tableau.com/views/SalesDashboard_16764975949820/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
             
