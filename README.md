@@ -66,14 +66,14 @@
         
         * #MakeoverMonday 2023 Week 5| **NYC PIZZA SLICES**
         
-         [DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/MakeoverMonday2023NYCPizzaSlices/MakeoverMonday2023W5NYCPizzaSlices)
+         [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/MakeoverMonday2023NYCPizzaSlices/MakeoverMonday2023W5NYCPizzaSlices)
               
          ![image](https://user-images.githubusercontent.com/124743857/218858842-ce222c3b-37bf-414f-8152-9f73ada75873.png)
          
          
        *  **Sample SuperStore**
        
-         [DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/Sample-Superstore_16764789880940/SampleSuperstore_1)
+         [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/Sample-Superstore_16764789880940/SampleSuperstore_1)
               
          ![image](https://user-images.githubusercontent.com/124743857/219120912-e6637f2a-d20c-45c3-8a37-7a7fd5547e7a.png)
          
@@ -81,13 +81,13 @@
          
        * **#MakeoverMonday 2021 W7-What's the point of Valentines day**
        
-        [DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/MakeoverMonday2021W7-WhatspointofValentinesDay/MakeoverMonday2021W7-WhatsthepointofValentinesday)
+        [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/MakeoverMonday2021W7-WhatspointofValentinesDay/MakeoverMonday2021W7-WhatsthepointofValentinesday)
             
    ![image](https://user-images.githubusercontent.com/124743857/219774390-4950c608-0bf7-4159-bc72-9bc514358349.png)
 
      *  **SALES DASHBOARD**
      
-     [DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/SalesDashboard_16764975949820/SalesDashboard)
+     [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/SalesDashboard_16764975949820/SalesDashboard)
      
             
      ![image](https://user-images.githubusercontent.com/124743857/219775324-375d2087-6988-4cfa-a445-2c578747cd0e.png)
