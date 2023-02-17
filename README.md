@@ -40,7 +40,7 @@
         
         *Review the Case Study* :[HERE](https://github.com/Sumaya524/Cyclistic-Bike-Share-Analyis---Google-Data-analyti/blob/main/cyclistic-bike-share-analyis-google-data-analyti.ipynb)
         
-        *Review the Tableau Public*:[HERE](https://github.com/Sumaya524/Cyclistic-Bike-Share-Analyis---Google-Data-analyti/blob/main/Bike%20share.png)
+        *Review the Tableau Public*:[HERE](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/CyclisticBikeShareAnalysis_16692262784100/Dashboard1)
         
         
         ![image](https://user-images.githubusercontent.com/124743857/218839484-3e82548a-1a5d-4e45-b08f-4f5b4ab8b178.png)
@@ -66,14 +66,14 @@
         
         * #MakeoverMonday 2023 Week 5| **NYC PIZZA SLICES**
         
-         **[VIEW DASHBOARD]** (https://public.tableau.com/views/MakeoverMonday2023NYCPizzaSlices/MakeoverMonday2023W5NYCPizzaSlices?:language=en-US&:display_count=n&:origin=viz_share_link)
+         **[VIEW DASHBOARD]** (https://public.tableau.com/app/profile/sumaya.abdullathif/viz/MakeoverMonday2023NYCPizzaSlices/MakeoverMonday2023W5NYCPizzaSlices)
               
          ![image](https://user-images.githubusercontent.com/124743857/218858842-ce222c3b-37bf-414f-8152-9f73ada75873.png)
          
          
        *  **Sample SuperStore**
        
-         **[VIEW DASHBOARD]** (https://public.tableau.com/views/Sample-Superstore_16764789880940/SampleSuperstore_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+         **[VIEW DASHBOARD]** (https://public.tableau.com/app/profile/sumaya.abdullathif/viz/Sample-Superstore_16764789880940/SampleSuperstore_1)
               
          ![image](https://user-images.githubusercontent.com/124743857/219120912-e6637f2a-d20c-45c3-8a37-7a7fd5547e7a.png)
          
@@ -81,7 +81,7 @@
          
        * **#MakeoverMonday 2021 W7-What's the point of Valentines day**
        
-        **[VIEW DASHBOARD]** (https://public.tableau.com/views/MakeoverMonday2021W7-WhatspointofValentinesDay/MakeoverMonday2021W7-WhatsthepointofValentinesday?:language=en-US&:display_count=n&:origin=viz_share_link)
+        **[VIEW DASHBOARD]** (https://public.tableau.com/app/profile/sumaya.abdullathif/viz/MakeoverMonday2021W7-WhatspointofValentinesDay/MakeoverMonday2021W7-WhatsthepointofValentinesday)
             
           ![image](https://user-images.githubusercontent.com/124743857/219139361-e33c078e-303c-4cb6-b238-f669d2733273.png)
           
@@ -89,7 +89,7 @@
           
         * **SALES DASHBOARD|OverView**
         
-         **[VIEW DASHBOARD]** (https://public.tableau.com/views/SalesDashboard_16764975949820/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+         **[VIEW DASHBOARD]** (https://public.tableau.com/app/profile/sumaya.abdullathif/viz/SalesDashboard_16764975949820/SalesDashboard)
             
             ![image](https://user-images.githubusercontent.com/124743857/219765081-e4485242-4342-4e18-a1a4-0bde818b2b6f.png)
 
