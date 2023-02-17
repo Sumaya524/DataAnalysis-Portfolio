@@ -90,7 +90,7 @@
           
         * **SALES DASHBOARD|OverView**
         
-         **[VIEW DASHBOARD]** (https://public.tableau.com/views/SalesDashboard_16764975949820/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+     **[VIEW DASHBOARD]**(https://public.tableau.com/views/SalesDashboard_16764975949820/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
             
      ![image](https://user-images.githubusercontent.com/124743857/219775324-375d2087-6988-4cfa-a445-2c578747cd0e.png)
 
