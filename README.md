@@ -99,6 +99,15 @@
         [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/LayoffDashboard2020-2023/Dashboard1)
         
          ![image](https://user-images.githubusercontent.com/124743857/220996705-d191fc58-2a09-4293-b318-7dfd7655cbc8.png)
+         
+         
+         
+      * **ECOMMERCE SALES 2023**   
+          
+          [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/EcommerceSalesDashboard_16770174620440/Dashboard)
+           
+           ![image](https://user-images.githubusercontent.com/124743857/220997882-f69fa096-976a-4f0b-bc9c-39728bc7f946.png)
+
 
         
 
