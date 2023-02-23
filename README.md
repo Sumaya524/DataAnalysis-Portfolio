@@ -91,6 +91,16 @@
      
             
      ![image](https://user-images.githubusercontent.com/124743857/219775324-375d2087-6988-4cfa-a445-2c578747cd0e.png)
+     
+     
+     
+     * **Layoff(2020-2023)
+     
+        [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/LayoffDashboard2020-2023/Dashboard1)
+        
+         ![image](https://user-images.githubusercontent.com/124743857/220996705-d191fc58-2a09-4293-b318-7dfd7655cbc8.png)
+
+        
 
 
             
