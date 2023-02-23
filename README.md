@@ -94,7 +94,7 @@
      
      
      
-     * **Layoff(2020-2023)
+     * **Layoff(2020-2023)**
      
         [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/LayoffDashboard2020-2023/Dashboard1)
         
