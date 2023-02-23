@@ -107,6 +107,14 @@
     [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/EcommerceSalesDashboard_16770174620440/Dashboard)
            
     ![image](https://user-images.githubusercontent.com/124743857/220997882-f69fa096-976a-4f0b-bc9c-39728bc7f946.png)
+    
+    
+    * **HR Analytics 2023**
+    
+    [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/HRAnalytics_16769164457390/HRANALYTICSDASHBOARD)
+    
+    ![image](https://user-images.githubusercontent.com/124743857/220999406-44d61e69-5d61-4972-b01b-8aace9a331db.png)
+
 
 
         
