@@ -114,6 +114,14 @@
     [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/HRAnalytics_16769164457390/HRANALYTICSDASHBOARD)
     
     ![image](https://user-images.githubusercontent.com/124743857/220999406-44d61e69-5d61-4972-b01b-8aace9a331db.png)
+    
+    
+    * **CREDIT CARD COMPLAINTS DASHBAORD**
+      
+    [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/CreditCardComplaintsDasboard/Dashboard)
+      
+     ![image](https://user-images.githubusercontent.com/124743857/221263602-dcabafb5-8f0c-40a1-8352-eb503afe239a.png)
+
 
 
 
