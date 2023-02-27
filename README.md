@@ -129,6 +129,17 @@
      **Sales Superstore Sample: Sales Performance Dashboard**
      
      ![image](https://user-images.githubusercontent.com/124743857/221668733-b798a7ea-3fa1-4e77-801f-acabab58dafc.png)
+     
+     
+      
+     * **EXCEL**
+     *Kindly download these Excel files from this repository and view them in Microsoft Excel*
+     
+     **Adidas US interactive Sales DASHBOARD**
+     
+     ![image](https://user-images.githubusercontent.com/124743857/221716552-e1bfb19b-093e-4172-9887-67f8a7e578d1.png)
+
+     
 
 
 
