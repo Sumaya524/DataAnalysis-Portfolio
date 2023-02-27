@@ -121,6 +121,14 @@
     [VIEW DASHBOARD](https://public.tableau.com/app/profile/sumaya.abdullathif/viz/CreditCardComplaintsDasboard/Dashboard)
       
      ![image](https://user-images.githubusercontent.com/124743857/221263602-dcabafb5-8f0c-40a1-8352-eb503afe239a.png)
+     
+     
+     * **EXCEL**
+     *Kindly download these Excel files from this repository and view them in Microsoft Excel*
+     
+     **Sales Superstore Sample: Sales Performance Dashboard**
+     
+     ![image](https://user-images.githubusercontent.com/124743857/221668733-b798a7ea-3fa1-4e77-801f-acabab58dafc.png)
 
 
 
